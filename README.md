@@ -1,6 +1,6 @@
 # [Kontrol²](https://gregnau.github.io/PortiekVerlichting/) Android App
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gregnau/Kontrol/master/screenshot.gif" />
+  <img src="https://raw.githubusercontent.com/gregnau/Kontrol58/master/screenshot.gif" />
 </p>
 
 ## Beschrijving
@@ -11,7 +11,7 @@ Android Studio 3.0.1
 API level min. 15 (ICS 4.0.3)
 
 ## Downloaden
-De latste APK is hier te downloaden via het menu [Releases](https://github.com/gregnau/Kontrol/releases), 
+De latste APK is hier te downloaden via het menu [Releases](https://github.com/gregnau/Kontrol58/releases), 
 of de nieuwste versie is ook beschikbaar in Google Play:
 <p align="center">
   <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Download from Google Play" height="80">
